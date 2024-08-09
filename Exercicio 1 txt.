@@ -1,0 +1,15 @@
+Nomes: Thaissa e Eduardo 
+
+Sistema de monitoramento e cuidados com plantas.
+Função do Software: O sistema deve escanear e compartilhar informações de cuidados com as plantas.
+
+Requisitos funcionais:
+Cadastro de usuarios: Deve ser possivel criar um cadastro para acesso de cada usuario. Com nome, telefone, local em que reside.
+Digitalização de plantas: Deve enviar as informações ao escanear a imagem da planta correspondente; como, especie da planta e cuidados necessarios.
+Registro de dados: O sistema deve guardar as informações das plantas ja escaneadas pelo usuario; como tais quais plantas o usuario desejou manter, e a evolução das mesmas ja vizualizadas pelo usuario.
+
+Requisitos nao funcionais:
+Desempenho: O sistema deve enviar as informações rapidamente de cada planta escaneada pelo usuario, independete do local que esteja.
+Segurança: O sitema deve guardar de maneira segura os dados salvos pelo usuario sobre cada planta. Sendo possivel compartilhar as plantas cuidadas pelo usuario com outros usuarios do sistema, apenas se permitido um perfil publico.
+Usabilidade: Deve ter interfaces simples e de explicações eficazes, um aplicativo exclusivos para smartphones para que possa ser usado a qualquer momento e em qualquer lugar, sem limites de plantas a serem consultadas.
+Confiabilidade: O sitema deve oferecer veracidade nas informações obtidas sobre cada cuidado.
